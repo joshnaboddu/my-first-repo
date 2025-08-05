@@ -1,4 +1,5 @@
 a=56
 b=65
 c=47
-print(a+b=c)
+print(a+b+c)
+
